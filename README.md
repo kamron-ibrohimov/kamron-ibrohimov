@@ -3,4 +3,4 @@
 
 I write code that works in production, not just on localhost
 
-Every commit is a step toward something bigger
+Every commit is a step toward something bigger.
